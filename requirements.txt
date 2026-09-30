@@ -1,0 +1,5 @@
+polypus-quantum==0.7.2
+jupyterlab
+matplotlib
+numpy
+pylatexenc
