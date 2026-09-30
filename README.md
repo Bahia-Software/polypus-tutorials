@@ -23,7 +23,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-Then open [`00_bienvenida.ipynb`](00_bienvenida.ipynb) — it explains how the series works and routes you to the right starting point depending on your programming/quantum-computing background.
+Then open [`00_welcome.ipynb`](00_welcome.ipynb), or [`00_bienvenida.ipynb`](00_bienvenida.ipynb), — it explains how the series works and routes you to the right starting point depending on your programming/quantum-computing background.
 
 ## License
 
